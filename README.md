@@ -44,8 +44,9 @@ Check out my latest high-fidelity portfolio!
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chanluzon&show_icons=true&theme=dracula&bg_color=08080c&title_color=c084fc&text_color=94a3b8&icon_color=8b5cf6&border_color=255,255,255,0.08" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanluzon&layout=compact&theme=dracula&bg_color=08080c&title_color=c084fc&text_color=94a3b8&border_color=255,255,255,0.08" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chanluzon&show_icons=true&theme=dracula&bg_color=08080c&title_color=c084fc&text_color=94a3b8&icon_color=8b5cf6&cache_seconds=1800" height="150"/>
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chanluzon&layout=compact&theme=dracula&bg_color=08080c&title_color=c084fc&text_color=94a3b8&cache_seconds=1800" height="150"/>
 </p>
 
 ---
