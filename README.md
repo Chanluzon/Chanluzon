@@ -4,12 +4,14 @@
   <img src="https://capsule-render.vercel.app/render?type=soft&color=8b5cf6&height=200&section=header&text=CHRIST%20AMRON&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20UI/UX%20Specialist&descSize=20&descAlignY=62" />
 </p>
 
-### 👨‍💻 About Me
-I'm a **Frontend Developer** based in Cebu City, passionate about crafting immersive, glassmorphism-inspired digital experiences. I specialize in building high-performance web applications that don't just work—they wow.
+### 👨‍💻 About Me  
+I’m a **Frontend Developer** based in Cebu City 🇵🇭, passionate about crafting immersive and visually engaging digital experiences.  
 
-- 🔭 Currently refining my **GSAP** animation skills and exploring **AI-integrated** UI.
-- 🌱 Learning the depth of **Next.js** and **Serverless** architectures.
-- ⚡ Fun fact: I believe that code should be as clean as the design it powers.
+I enjoy building high-performance web applications that are not only functional, but also intuitive, elegant, and memorable. I care deeply about clean UI, smooth interactions, and creating products that people genuinely enjoy using.
+
+- 🔭 Currently honing my **GSAP** animation skills to craft richer, more dynamic user experiences  
+- 🌱 Continuously expanding my expertise in **Next.js** and **serverless** architectures  
+- ⚡ Fun fact: I believe great code should be just as clean, intentional, and elegant as the design it brings to life  
 
 ---
 
@@ -28,7 +30,15 @@ I'm a **Frontend Developer** based in Cebu City, passionate about crafting immer
 ### 🏆 Featured Project: Digital Portfolio
 Check out my latest high-fidelity portfolio!
 - **Live Demo**: [https://chanluzon.netlify.app](https://chanluzon.netlify.app)
-- **Features**: GSAP cinematic reveals, glassmorphism, fully responsive, and serverless-ready.
+- **Features**:
+  - 🌐 Real-time multilingual chat with instant text translation  
+  - 🎙️ Voice-to-text input with live translation support  
+  - 🔊 Text-to-speech playback for translated messages  
+  - 💬 Seamless chat-based communication experience  
+  - 🌍 Support for multiple languages (including Bisaya)  
+  - 🧠 Smart and responsive UI for intuitive interactions  
+  - 🔐 Secure communication and user data handling  
+  - 📊 Admin dashboard for managing users and system data  
 
 ---
 
